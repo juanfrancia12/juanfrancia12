@@ -9,7 +9,7 @@
 
 - 💬 Preguntame sobre **HTML, CSS, JavaScript y ReactJS**
 
-- 📫 Como contactarme **jf.developer01@gmail.com**
+- 📫 Como contactarme **www.linkedin.com/in/juanfrancia12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
