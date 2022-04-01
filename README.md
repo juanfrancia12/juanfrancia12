@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://juanfrancia12.github.io/portfolio/](https://juanfrancia12.github.io/portfolio/)
 
-- 💬 Preguntame sobre **HTML, CSS, JavaScript y ReactJS**
+- 💬 Preguntame sobre **HTML, CSS, JavaScript, ReactJS y SQL Server**
 
 - 📫 Como contactarme **www.linkedin.com/in/juanfrancia12**
 
