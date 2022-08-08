@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Juan Francia Sánchez</h1>
 <h3 align="center">Soy un apasionado Frontend Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en [WorldMe](https://juanfrancia12.github.io/worldme/)
+- 🔭 Actualmente estoy trabajando en un [Backend para un Ecommerce](https://github.com/juanfrancia12/ecommerce-backend)
 
 - 🌱 Actualmente estoy aprendiendo **NextJS, SQL Server avanzado**
 
