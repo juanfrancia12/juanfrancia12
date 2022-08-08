@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en un [Backend para un Ecommerce](https://github.com/juanfrancia12/ecommerce-backend)
 
-- 🌱 Actualmente estoy aprendiendo **NextJS, SQL Server avanzado**
+- 🌱 Actualmente estoy aprendiendo **Business Intelligence**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-juanfrancia12.vercel.app/](https://portfolio-juanfrancia12.vercel.app/)
 
