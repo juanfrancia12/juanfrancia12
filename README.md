@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Business Intelligence**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-juanfrancia12.vercel.app/](https://portfolio-juanfrancia12.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [ver todos los proyectos](https://github.com/juanfrancia12?tab=repositories)
 
 - 💬 Preguntame sobre **HTML, CSS, JavaScript, ReactJS y SQL Server**
 
