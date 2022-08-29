@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Juan Francia Sánchez</h1>
 <h3 align="center">Soy un apasionado Frontend Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en un [Backend para un Ecommerce](https://github.com/juanfrancia12/ecommerce-backend)
-
 - 🌱 Actualmente estoy aprendiendo **Business Intelligence**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [ver todos los proyectos](https://github.com/juanfrancia12?tab=repositories)
