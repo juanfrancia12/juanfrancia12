@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [ver todos los proyectos](https://github.com/juanfrancia12?tab=repositories)
 
-- 💬 Preguntame sobre **HTML, CSS, JavaScript, ReactJS y SQL Server**
+- 💬 Preguntame sobre **HTML, CSS, JavaScript, ReactJS, NextJS, SQL Server, SQL Server Avanzado, Business Intelligence, Figma, Notion.**
 
 - 📫 Como contactarme **www.linkedin.com/in/juanfrancia12**
 
